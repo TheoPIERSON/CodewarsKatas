@@ -9,3 +9,19 @@
 - Reversed Strings
 - Convert boolean values to strings 'Yes' or 'No'.
 - Return Negative
+- Sum of positive
+- String repeat
+-
+
+## 10
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- 20
