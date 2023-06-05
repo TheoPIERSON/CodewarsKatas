@@ -19,8 +19,8 @@
 - Function 1 - hello world [x]
 - Grasshopper - Summation [x]
 - Convert a String to a Number![x]
-- Keep Hydrated! []
--
+- Keep Hydrated! [x]
+- Returning Strings []
 -
 -
 -
