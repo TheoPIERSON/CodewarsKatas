@@ -17,8 +17,8 @@
 
 - Remove String Spaces [x]
 - Function 1 - hello world [x]
-- Grasshopper - Summation [X]
--
+- Grasshopper - Summation [x]
+- Convert a String to a Number![x]
 -
 -
 -
