@@ -20,7 +20,7 @@
 - Grasshopper - Summation [x]
 - Convert a String to a Number![x]
 - Keep Hydrated! [x]
-- Returning Strings []
+- Returning Strings [x]
 -
 -
 -
