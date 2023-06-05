@@ -2,15 +2,15 @@
 
 ## Objective 45 katas
 
-- Multiply
-- Even or Odd
-- Opposite Number
-- Number to String
-- Reversed Strings
-- Convert boolean values to strings 'Yes' or 'No'.
-- Return Negative
+- Multiply V
+- Even or Odd V
+- Opposite Number V
+- Number to String V
+- Reversed Strings V
+- Convert boolean values to strings 'Yes' or 'No'. V
+- Return Negative V
 - Sum of positive
-- String repeat
+- String repeat V
 -
 
 ## 10
