@@ -7,3 +7,5 @@
 - Opposite Number
 - Number to String
 - Reversed Strings
+- Convert boolean values to strings 'Yes' or 'No'.
+- Return Negative
