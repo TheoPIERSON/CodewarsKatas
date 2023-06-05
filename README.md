@@ -4,3 +4,4 @@
 
 - Multiply
 - Even or Odd
+- Opposite Number
