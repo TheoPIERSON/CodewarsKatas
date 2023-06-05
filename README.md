@@ -17,7 +17,7 @@
 
 - Remove String Spaces [x]
 - Function 1 - hello world [x]
-- Grasshopper - Summation [x]
+- Grasshopper - Summation [X]
 -
 -
 -
