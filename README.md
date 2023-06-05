@@ -11,7 +11,7 @@
 - Return Negative V
 - Sum of positive
 - String repeat V
--
+- Remove First and Last Character
 
 ## 10
 
