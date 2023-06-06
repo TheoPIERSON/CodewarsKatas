@@ -29,7 +29,7 @@
 ## 20
 
 - Abbreviate a Two Word Name [x]
--
+- Beginner Series #2 Clock []
 -
 -
 -
