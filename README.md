@@ -2,7 +2,7 @@
 
 ## Objective 45 katas
 
-- Multiply [x]
+- [x] Multiply
 - Even or Odd [x]
 - Opposite Number [x]
 - Number to String [x]
