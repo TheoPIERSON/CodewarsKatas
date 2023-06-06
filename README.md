@@ -34,7 +34,7 @@
 - :white_check_mark: Beginner Series #1 School Paperwork
 - :white_check_mark: MakeUpperCase
 - :white_check_mark: Are You Playing Banjo?
--
+- :white_check_mark: Simple multiplication
 -
 -
 -
