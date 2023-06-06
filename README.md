@@ -30,7 +30,7 @@
 
 - :white_check_mark: Abbreviate a Two Word Name
 - :white_check_mark: Beginner Series #2 Clock
-- :ballot_box_with_check: Opposites Attract
+- :white_check_mark: Opposites Attract
 -
 -
 -
