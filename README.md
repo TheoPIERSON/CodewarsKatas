@@ -32,7 +32,7 @@
 - :white_check_mark: Beginner Series #2 Clock
 - :white_check_mark: Opposites Attract
 - :white_check_mark: Beginner Series #1 School Paperwork
--
+- :ballot_box_with_check: MakeUpperCase
 -
 -
 -
