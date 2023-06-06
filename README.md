@@ -24,6 +24,45 @@
 - You Can't Code Under Pressure #1 [x]
 - Convert a Boolean to a String [x]
 - Century From Year [x]
--
+- Basic Mathematical Operations [x]
 
 ## 20
+
+- Abbreviate a Two Word Name []
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## 30
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## 40
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## 50
