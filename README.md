@@ -35,8 +35,8 @@
 - :white_check_mark: MakeUpperCase
 - :white_check_mark: Are You Playing Banjo?
 - :white_check_mark: Simple multiplication
-- Calculate BMI
--
+- :white_check_mark: Calculate BMI
+- Is he gonna survive?
 -
 
 ## 30
