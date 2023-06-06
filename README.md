@@ -36,8 +36,8 @@
 - :white_check_mark: Are You Playing Banjo?
 - :white_check_mark: Simple multiplication
 - :white_check_mark: Calculate BMI
-- Is he gonna survive?
--
+- :white_check_mark: Is he gonna survive?
+- :ballot_box_with_check: How good are you really?
 
 ## 30
 

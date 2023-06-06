@@ -21,3 +21,8 @@ since each dragon requires 2 bullets.
  If the number of dragons is less than or equal to the maximum number of dragons the hero can defeat, 
  the function returns true, indicating that the hero will survive. 
  Otherwise, it returns false, indicating that the hero won't have enough bullets to defeat all the dragons.*/
+
+////
+function hero(bullets, dragons) {
+  return bullets >= dragons * 2;
+}
