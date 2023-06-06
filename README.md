@@ -29,7 +29,7 @@
 ## 20
 
 - Abbreviate a Two Word Name :white_check_mark:
-- Beginner Series #2 Clock :white_check_mark:
+  :white_check_mark: - Beginner Series #2 Clock
 -
 -
 -
