@@ -28,7 +28,7 @@
 
 ## 20
 
-- Abbreviate a Two Word Name []
+- Abbreviate a Two Word Name [x]
 -
 -
 -
