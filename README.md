@@ -41,7 +41,7 @@
 
 ## 30
 
--
+- :white_check_mark: Square(n) Sum
 -
 -
 -
