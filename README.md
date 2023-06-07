@@ -9,7 +9,7 @@
 - :white_check_mark: Reversed Strings
 - :white_check_mark: Convert boolean values to strings 'Yes' or 'No'.
 - :white_check_mark: Return Negative
-- :ballot_box_with_check: Sum of positive
+- :white_check_mark: Sum of positive
 - :white_check_mark: String repeat
 - :white_check_mark: Remove First and Last Character
 
@@ -37,7 +37,7 @@
 - :white_check_mark: Simple multiplication
 - :white_check_mark: Calculate BMI
 - :white_check_mark: Is he gonna survive?
-- :ballot_box_with_check: How good are you really?
+- :white_check_mark: How good are you really?
 
 ## 30
 
