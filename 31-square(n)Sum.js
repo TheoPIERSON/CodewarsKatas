@@ -33,3 +33,8 @@ function squareSum(numbers) {
     return n * n + sum;
   }, 0);
 }
+
+///
+function squareSum(numbers) {
+  return numbers.reduce((sum, n) => sum + n ** 2, 0);
+}
