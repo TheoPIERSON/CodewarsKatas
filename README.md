@@ -42,8 +42,8 @@
 ## 30
 
 - :white_check_mark: Square(n) Sum
-- Find the smallest integer in the array
-- Counting sheep...
+- :white_check_mark: Find the smallest integer in the array
+- :white_check_mark: Counting sheep...
 -
 -
 -

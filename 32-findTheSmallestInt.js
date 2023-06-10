@@ -15,3 +15,19 @@ class SmallestIntegerFinder {
     }
   }
 }
+
+//// Good
+class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    const min = args.reduce((a, b) => Math.min(a, b));
+    return min;
+  }
+}
+
+////Best Practice
+
+class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    return Math.min(...args);
+  }
+}
