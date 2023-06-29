@@ -45,7 +45,7 @@
 - :white_check_mark: Find the smallest integer in the array
 - :white_check_mark: Counting sheep...
 - :white_check_mark: Convert number to reversed array of digits
--
+- :white_check_mark: Beginner - Lost Without a Map
 -
 -
 -
