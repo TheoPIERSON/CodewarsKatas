@@ -52,14 +52,14 @@
 -
 -
 
-## 40
+## 40 JAVA
 
--
--
--
--
--
--
+- :white_check_mark: Multiply
+- :white_check_mark: Even Or Odd
+- :white_check_mark: Basic Math Operation
+- :white_check_mark: Sum of Multiples
+- :white_check_mark: Congo Warehouse
+- :white_check_mark: Vowel Count
 -
 -
 -
